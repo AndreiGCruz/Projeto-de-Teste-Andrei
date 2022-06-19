@@ -2,3 +2,5 @@ ola meu nome é andrei
 
 eu moro em trigolãndia
 tenho 22 anos
+
+estou aprendendo git
